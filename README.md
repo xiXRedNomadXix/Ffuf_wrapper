@@ -10,7 +10,7 @@ sudo apt install ffuf seclists
 this should install SecLists in the right place but if not, just move them to `/usr/share/wordlists/`
 Clone this repository
 ```bash
-git clone https://github.com/xiXRedNomadXix/Vhost_Enum.git
+git clone 
 ```
 Now you can either make a bash alias for the script or just symlink it. =) Happy huning!
 
