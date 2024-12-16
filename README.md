@@ -14,4 +14,4 @@ git clone https://github.com/xiXRedNomadXix/Vhost_Enum.git
 ```
 Now you can either make a bash alias for the script or just symlink it. =) Happy huning!
 
-![image](https://github.com/user-attachments/assets/d0044524-04c4-419e-9dcc-87edd8fa9c9d)
+![image](https://github.com/user-attachments/assets/041437e0-6729-4428-bf7b-4b0c11d69d37)
