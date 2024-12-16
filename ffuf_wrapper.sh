@@ -41,8 +41,8 @@ Options:
      -h                 Show this help message.
 
 Examples:
-     ./vhost_enum.sh vhost example.com
-     ./vhost_enum.sh dir example.com -fs 100 -w /usr/share/wordlists/dirb/common.txt
+     ./ffuf_wrapper.sh vhost example.com
+     ./ffuf_wrapper.sh dir example.com -fs 100 -w /usr/share/wordlists/dirb/common.txt
 
 EOF
 
